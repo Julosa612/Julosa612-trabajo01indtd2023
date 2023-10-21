@@ -1,1 +1,1 @@
-# Julosa612-trabajo01indtd2023
+En este trabajo hemos realizado dos problemas de incertidumbre resueltos en R
